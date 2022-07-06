@@ -1,5 +1,5 @@
 # Requests python-spring
-##Funcionamiento general
+## Funcionamiento general
 Este programa fue diseñado en python y permite generar registros a la base de datos H2 dentro de un proyecto de Spring que funciona como API Rest, esta API recibe un conjunto de datos por medio de JSON para poder hacer los registros dentro de la tabla.
 
 ### Archivos txt
