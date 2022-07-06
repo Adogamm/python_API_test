@@ -8,11 +8,11 @@ Para el funcionamiento de este aplicativo se requiere generar un archivo con ext
 ------------
 
 
-	"Nombre del empleado"
-	"Apellido"
-	"Pais de recidencia"
-	"Idioma"
-	"Aeropuerto en donde realiza sus labores"
+	Nombre del empleado
+	Apellido
+	Pais de recidencia
+	Idioma
+	Aeropuerto en donde realiza sus labores
 
 ------------
 
